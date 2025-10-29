@@ -1,8 +1,6 @@
 
   # Web App for Movement Detection
 
-  This is a code bundle for Web App for Movement Detection. The original project is available at https://www.figma.com/design/DOS2ujLnRYR74eGEQmYKTP/Web-App-for-Movement-Detection.
-
   ## Running the code
 
   Run `npm install` to install the dependencies.
